@@ -2,6 +2,6 @@ package gomodtest
 
 import "fmt"
 
-func hi(name string) {
+func Hi(name string) {
 	fmt.Println("hi" + name)
 }
