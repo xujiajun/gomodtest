@@ -1,0 +1,2 @@
+# gomodtest
+go mod test
